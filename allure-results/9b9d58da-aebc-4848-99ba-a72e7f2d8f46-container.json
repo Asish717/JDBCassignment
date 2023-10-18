@@ -1,0 +1,1 @@
+{"uuid":"9b9d58da-aebc-4848-99ba-a72e7f2d8f46","name":"com.selenium.base.BaseClass.end","children":["c154ce8e-5e55-49d0-bf29-856c55c9c8e6"],"description":"","befores":[],"afters":[{"name":"end","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1697611870850,"stop":1697611870853}],"start":1697611870849,"stop":1697611870853}
